@@ -29,5 +29,9 @@
     "eslint-plugin-import": "^2.22.1",
     "nodemon": "^2.0.7",
     "open-cli": "^6.0.1"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
